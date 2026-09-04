@@ -40,12 +40,6 @@ src/main/java/com/example/image_processing_service/
 
 ## Setup
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/GopariIndhu/Image-Processing-Service.git
-   cd Image-Processing-Service
-   ```
 
 2. **Create the database**
 
